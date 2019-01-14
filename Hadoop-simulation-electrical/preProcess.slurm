@@ -1,0 +1,11 @@
+#!/bin/bash
+#SBATCH -N 1
+#SBATCH --ntasks-per-node=1
+#SBATCH -t 00:10:00
+#SBATCH -p serial
+#SBATCH -A hntes_group
+
+module load python/2.7.6
+stdbuf -o0 -e0 time python input/jobMixGenerator.py 500 0 0.2
+#stdbuf -o0 -e0 time bash run.sh 200 5 0.3 "/Users/sherry/Box Sync" "/Users/sherry/Box Sync"
+#stdbuf -o0 -e0 time python -m cProfile -s cumulative main.py

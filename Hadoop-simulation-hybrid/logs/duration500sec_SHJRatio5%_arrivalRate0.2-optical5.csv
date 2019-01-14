@@ -1,0 +1,7 @@
+jobId,mapRackId,reduceRackId,time,event
+job4,0,2,33.134217727999996,request
+job4,2,2,33.134217727999996,finish
+job4,0,2,33.638635130060003,finish
+job7,1,3,90.402653184000002,request
+job7,3,3,90.402653184000002,finish
+job7,1,3,101.56521828615,finish

@@ -1,0 +1,111 @@
+INFO:2.000000 -- Regular job0 receives its AM container cntr384
+INFO:3.000000 -- Regular job1 receives its AM container cntr1248
+INFO:5.000000 -- Regular job2 receives its AM container cntr1264
+INFO:6.000000 -- Regular job3 receives its AM container cntr2928
+INFO:7.000000 -- SHJ job4 receives its AM container cntr3408
+INFO:14.000000 -- Regular job5 receives its AM container cntr1632
+INFO:16.000000 -- Regular job6 receives its AM container cntr486
+INFO:17.000000 -- Regular job7 receives its AM container cntr338
+INFO:21.000000 -- Regular job8 receives its AM container cntr2096
+INFO:22.000000 -- Regular job9 receives its AM container cntr1664
+INFO:22.173461 -- Regular job3 starts requesting 2 out of 12 reduce containers when 83 out of 92 map tasks are completed
+INFO:24.000000 -- Regular job10 receives its AM container cntr3120
+INFO:30.173794 -- Regular job5 starts requesting 1 out of 7 reduce containers when 48 out of 53 map tasks are completed
+INFO:32.178870 -- Regular job6 starts requesting 2 out of 10 reduce containers when 69 out of 76 map tasks are completed
+INFO:37.184702 -- Regular job8 starts requesting 2 out of 11 reduce containers when 73 out of 81 map tasks are completed
+INFO:38.000000 -- Regular job11 receives its AM container cntr1936
+INFO:38.173794 -- Regular job9 starts requesting 2 out of 10 reduce containers when 66 out of 73 map tasks are completed
+INFO:40.220711 -- Regular job10 starts requesting 6 out of 30 reduce containers when 211 out of 234 map tasks are completed
+INFO:43.000000 -- Regular job12 receives its AM container cntr1120
+INFO:48.000000 -- Regular job13 receives its AM container cntr3440
+INFO:49.000000 -- SHJ job14 receives its AM container cntr112
+INFO:53.000000 -- Regular job15 receives its AM container cntr3168
+INFO:54.173461 -- Regular job11 starts requesting 2 out of 12 reduce containers when 84 out of 93 map tasks are completed
+INFO:59.164829 -- Regular job12 starts requesting 2 out of 10 reduce containers when 72 out of 79 map tasks are completed
+INFO:61.000000 -- Regular job16 receives its AM container cntr1856
+INFO:63.000000 -- SHJ job17 receives its AM container cntr912
+INFO:64.175802 -- Regular job13 starts requesting 1 out of 6 reduce containers when 41 out of 45 map tasks are completed
+INFO:66.000000 -- Regular job18 receives its AM container cntr1616
+INFO:68.000000 -- Regular job19 receives its AM container cntr2448
+INFO:69.237949 -- Regular job15 starts requesting 8 out of 40 reduce containers when 285 out of 316 map tasks are completed
+INFO:72.000000 -- SHJ job20 receives its AM container cntr2936
+INFO:74.000000 -- SHJ job21 receives its AM container cntr2416
+INFO:77.219950 -- Regular job16 starts requesting 3 out of 18 reduce containers when 124 out of 137 map tasks are completed
+INFO:82.000000 -- Regular job22 with no reduces receives its AM container cntr3712
+INFO:82.251857 -- Regular job18 starts requesting 3 out of 17 reduce containers when 117 out of 130 map tasks are completed
+INFO:84.000000 -- Regular job23 with no reduces receives its AM container cntr3152
+INFO:84.290003 -- Regular job19 starts requesting 1 out of 7 reduce containers when 50 out of 55 map tasks are completed
+INFO:85.000000 -- Regular job24 receives its AM container cntr1840
+INFO:87.000000 -- Regular job25 receives its AM container cntr1200
+INFO:89.000000 -- Regular job26 receives its AM container cntr3040
+INFO:90.000000 -- Regular job27 receives its AM container cntr3728
+INFO:94.000000 -- Regular job28 receives its AM container cntr3456
+INFO:101.000000 -- Regular job29 receives its AM container cntr3328
+INFO:103.000000 -- Regular job30 receives its AM container cntr2288
+INFO:106.236656 -- Regular job27 starts requesting 9 out of 47 reduce containers when 335 out of 372 map tasks are completed
+INFO:117.244457 -- Regular job29 starts requesting 4 out of 22 reduce containers when 155 out of 172 map tasks are completed
+INFO:125.000000 -- Regular job31 receives its AM container cntr1536
+INFO:135.000000 -- Regular job32 receives its AM container cntr2896
+INFO:136.000000 -- Regular job33 with no reduces receives its AM container cntr2608
+INFO:143.000000 -- Regular job34 with no reduces receives its AM container cntr2176
+INFO:145.000000 -- SHJ job35 receives its AM container cntr3248
+INFO:159.000000 -- Regular job36 receives its AM container cntr3312
+INFO:162.000000 -- Regular job37 receives its AM container cntr3408
+INFO:164.000000 -- Regular job38 receives its AM container cntr2480
+INFO:169.000000 -- Regular job39 receives its AM container cntr3824
+INFO:170.000000 -- SHJ job40 receives its AM container cntr1792
+INFO:175.000000 -- SHJ job41 receives its AM container cntr2784
+INFO:175.173794 -- Regular job36 starts requesting 1 out of 8 reduce containers when 56 out of 62 map tasks are completed
+INFO:177.000000 -- Regular job42 receives its AM container cntr3664
+INFO:178.175802 -- Regular job37 starts requesting 1 out of 6 reduce containers when 44 out of 48 map tasks are completed
+INFO:179.000000 -- Regular job43 with no reduces receives its AM container cntr1680
+INFO:180.173794 -- Regular job38 starts requesting 1 out of 8 reduce containers when 54 out of 60 map tasks are completed
+INFO:184.000000 -- Regular job44 receives its AM container cntr1744
+INFO:186.000000 -- Regular job45 receives its AM container cntr1681
+INFO:190.000000 -- SHJ job46 receives its AM container cntr2272
+INFO:191.000000 -- Regular job47 receives its AM container cntr3008
+INFO:192.000000 -- Regular job48 receives its AM container cntr1312
+INFO:199.000000 -- Regular job49 receives its AM container cntr2384
+INFO:202.186306 -- Regular job45 starts requesting 5 out of 29 reduce containers when 206 out of 228 map tasks are completed
+INFO:207.000000 -- Regular job50 receives its AM container cntr865
+INFO:208.251857 -- Regular job48 starts requesting 7 out of 36 reduce containers when 254 out of 282 map tasks are completed
+INFO:212.000000 -- Regular job51 receives its AM container cntr1751
+INFO:215.293935 -- Regular job49 starts requesting 12 out of 61 reduce containers when 434 out of 482 map tasks are completed
+INFO:216.000000 -- Regular job52 receives its AM container cntr3735
+INFO:223.287245 -- Regular job50 starts requesting 7 out of 36 reduce containers when 257 out of 285 map tasks are completed
+INFO:226.000000 -- SHJ job53 receives its AM container cntr743
+INFO:228.235153 -- Regular job51 starts requesting 2 out of 13 reduce containers when 90 out of 100 map tasks are completed
+INFO:230.000000 -- Regular job54 receives its AM container cntr277
+INFO:240.000000 -- Regular job55 receives its AM container cntr2752
+INFO:243.000000 -- Regular job56 receives its AM container cntr224
+INFO:245.000000 -- Regular job57 receives its AM container cntr3504
+INFO:246.219950 -- Regular job54 starts requesting 11 out of 55 reduce containers when 393 out of 436 map tasks are completed
+INFO:251.000000 -- Regular job58 receives its AM container cntr709
+INFO:252.000000 -- Regular job59 receives its AM container cntr710
+INFO:254.000000 -- Regular job60 receives its AM container cntr64
+INFO:255.000000 -- Regular job61 receives its AM container cntr865
+INFO:256.000000 -- SHJ job62 receives its AM container cntr1584
+INFO:256.252442 -- Regular job55 starts requesting 9 out of 47 reduce containers when 334 out of 371 map tasks are completed
+INFO:261.274018 -- Regular job57 starts requesting 2 out of 10 reduce containers when 71 out of 78 map tasks are completed
+INFO:266.000000 -- Regular job63 receives its AM container cntr1056
+INFO:268.000000 -- Regular job64 receives its AM container cntr2832
+INFO:270.138723 -- Regular job65 with no reduces receives its AM container cntr1089
+INFO:270.173461 -- Regular job60 starts requesting 2 out of 10 reduce containers when 70 out of 77 map tasks are completed
+INFO:271.138723 -- Regular job66 receives its AM container cntr1102
+INFO:272.134218 -- SHJ job67 receives its AM container cntr528
+INFO:277.043569 -- Regular job68 receives its AM container cntr672
+INFO:281.544000 -- Regular job70 receives its AM container cntr1792
+INFO:281.544000 -- Regular job69 with no reduces receives its AM container cntr1796
+INFO:282.173794 -- Regular job63 starts requesting 1 out of 8 reduce containers when 58 out of 64 map tasks are completed
+INFO:284.135305 -- Regular job71 receives its AM container cntr1823
+INFO:285.272940 -- Regular job72 receives its AM container cntr1096
+INFO:286.278559 -- Regular job73 receives its AM container cntr3565
+INFO:287.268435 -- Regular job74 receives its AM container cntr950
+INFO:299.269522 -- Regular job76 with no reduces receives its AM container cntr1818
+INFO:299.269522 -- Regular job75 with no reduces receives its AM container cntr1822
+INFO:299.307678 -- Regular job66 starts requesting 1 out of 7 reduce containers when 47 out of 52 map tasks are completed
+INFO:299.386489 -- Regular job68 starts requesting 6 out of 31 reduce containers when 221 out of 245 map tasks are completed
+INFO:299.434367 -- Regular job70 starts requesting 10 out of 52 reduce containers when 375 out of 416 map tasks are completed
+INFO:307.193000 -- Regular job77 receives its AM container cntr1427
+INFO:311.377218 -- Regular job78 receives its AM container cntr1100
+INFO:314.542454 -- Regular job64 starts requesting 183 out of 918 reduce containers when 6606 out of 7340 map tasks are completed

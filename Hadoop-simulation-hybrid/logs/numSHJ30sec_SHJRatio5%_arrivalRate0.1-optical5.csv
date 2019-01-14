@@ -1,0 +1,4 @@
+jobId,mapRackId,reduceRackId,time,event
+job9,3,0,122.134217728,request
+job9,0,0,122.134217728,finish
+job9,3,0,122.64498104083999,finish
